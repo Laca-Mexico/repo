@@ -1,0 +1,14 @@
+Package: org.chronic-dev.animate
+Version: 1.0.1
+Section: System
+Maintainer: Laca Mexico <officialjlbislas@coloficial.ml>
+Depends: preferenceloader
+Conflicts: imagemagick
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 522524 
+MD5sum: a3f419911bf03806bbe43753c5fc46c4
+Description: Boot Logo Animations for 4.2.1 untether
+Name: Animate
+Author: Chronic-Dev Team <jaywalker@chronic-dev.com>
+Depiction: A Test tweak
